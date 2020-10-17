@@ -2,7 +2,7 @@
 box-sizing: border-box;
 margin:0;
 padding:0;
-color:#eee;
+color:#ffffff;
 }
 
 body {
@@ -12,7 +12,8 @@ body {
 .navbar {
     background-color: #2a607c;
    padding:20px;
-    color:#eee; 
+   color: #ffffff;
+ 
     width:100%; 
 }
 h6 {
@@ -22,6 +23,10 @@ h6 {
 
 }
 
+.s {
+    color: #d9dcd6;
+    display:inline-block;
+}
 
 ul {
     list-style: none;
@@ -120,6 +125,7 @@ p{ font-size:16px;
 h2 {
     margin-bottom: 20px;
     margin-top:10px;
+    font-size:19px;
 }
 
 footer {
@@ -130,9 +136,11 @@ footer {
 }
 
 h3 {
-    font-size: 20px;
+    font-size:20px;
+    color:black;
 }
 
 pf {
     font-size: 16px;
+    color:black;
 }
